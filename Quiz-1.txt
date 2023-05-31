@@ -1,0 +1,28 @@
+Questions Link:- https://www.evernote.com/shard/s511/sh/fa9b94b8-b672-004f-9b20-5fcfb9458034/xtV7jCbJ3oaur1kdwctAKuazgyZoZQLPdaKRL_gYeBbLAqcyxoTe8Mo9eA
+
+Answers:-
+1. Java Development Kit
+2. It uses bytecode for execution
+3. Yes (But you have compile and run the Code with the Class name)
+4. main() method
+5. int name;
+6. Yes, by access command prompt
+7. Passing arguments at run time
+8. To call the main method outside of Class or Package by JVM
+9. Both A and B
+10. The type or variety of data being handled for reading and writing
+11. long double
+12. Byte
+13. 4 bytes
+14. American Standard Code for Information Interchange
+15. True
+16. b  can not contain value 2500, limited by its range.
+17. 2.0
+18. 5.5 5
+19. false
+20. b is greater
+21. Hello
+22. 2
+23. a<0 || b<0
+24. 9
+25. King
